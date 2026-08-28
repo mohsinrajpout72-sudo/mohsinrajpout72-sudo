@@ -24,28 +24,62 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const mohsin = {
-  name:      "Mohsin Ali",
-  role:      "Senior Shopify Developer",
-  location:  "Lahore, Punjab, Pakistan",
-  core:      ["HTML", "CSS", "JavaScript", "Liquid"],
-  focus:     ["Custom Shopify Themes", "Store Speed", "Conversion Rate"],
-  platform:  "Shopify & Shopify Plus",
-  currently: "Building conversion-focused storefronts",
-  motto:     "A fast store is a profitable store."
-};
-```
+<table>
+<tr>
+<td width="56%" valign="top">
 
-I'm a **Senior Shopify Developer** who builds custom storefronts from the ground up — clean, hand-written **HTML, CSS and JavaScript** layered onto **Liquid**, with no bloated page builders and no unnecessary apps.
+### Senior Shopify Developer
 
-- 🛍️ **Shopify specialist** — custom themes, Online Store 2.0 sections, metafields, Shopify Plus
-- 🎨 **Frontend-first** — semantic HTML, responsive CSS, vanilla JavaScript, pixel-perfect builds
-- ⚡ **Performance obsessed** — Core Web Vitals, lazy loading, script deferral, image optimization
-- 🧩 **App-light philosophy** — I replace third-party apps with custom code wherever it's faster
-- 💬 **Ask me about** — Liquid templating, theme architecture, cart & checkout customization
+I build custom Shopify storefronts from the ground up — clean, hand-written
+**HTML, CSS and JavaScript** layered onto **Liquid**.
+
+No bloated page builders. No unnecessary apps. Just fast, maintainable
+code that loads quickly and converts.
+
+`Ask me about` &nbsp;Liquid templating &middot; theme architecture &middot; cart &amp; checkout customization
+
+</td>
+<td width="44%" valign="top">
+
+|  |  |
+| :--- | :--- |
+| 🎯 &nbsp;**Role** | Senior Shopify Developer |
+| 📍 &nbsp;**Based in** | Lahore, Pakistan |
+| 🧱 &nbsp;**Core stack** | HTML &middot; CSS &middot; JavaScript |
+| 🛍️ &nbsp;**Platform** | Shopify &amp; Shopify Plus |
+| ⚡ &nbsp;**Focus** | Speed &middot; CRO &middot; Custom Themes |
+| 💼 &nbsp;**Status** | Open to work |
+
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/shopify/96BF48" width="42" height="42" alt="Shopify" /><br/><br/>
+  <b>Shopify Development</b><br/>
+  <sub>Custom themes, Online Store 2.0<br/>sections, metafields, Plus</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript" /><br/><br/>
+  <b>Frontend Engineering</b><br/>
+  <sub>Semantic HTML, responsive CSS,<br/>vanilla JavaScript</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/lighthouse/F44B21" width="42" height="42" alt="Performance" /><br/><br/>
+  <b>Speed Optimization</b><br/>
+  <sub>Core Web Vitals, lazy loading,<br/>script deferral</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/figma/A259FF" width="42" height="42" alt="Figma" /><br/><br/>
+  <b>Figma to Liquid</b><br/>
+  <sub>Pixel-perfect conversion from<br/>Figma, XD or PSD</sub>
+</td>
+</tr>
+</table>
 
 ---
 
