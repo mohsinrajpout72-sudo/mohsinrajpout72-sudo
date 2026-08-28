@@ -88,32 +88,51 @@ code that loads quickly and converts.
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap&theme=dark" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" height="70" />
+
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive%20Design-96BF48?style=flat-square&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<br/><br/>
 
 ### Shopify
-<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20Plus-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" />
+
+<table align="center">
+<tr>
+<td align="center" width="260">
+  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg" height="60" alt="Shopify" />
+  <br/><br/>
+  <sub>Custom themes &middot; Liquid &middot; Storefront</sub>
+</td>
+<td align="center" width="260">
+  <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" height="56" alt="Shopify Plus" />
+  <br/>
+  <b><code>Shopify Plus</code></b>
+  <br/><br/>
+  <sub>Scripts &middot; Checkout &middot; B2B</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Liquid-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Liquid" />
+<img src="https://img.shields.io/badge/Online%20Store%202.0-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Online Store 2.0" />
+<img src="https://img.shields.io/badge/Shopify%20CLI-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify CLI" />
+<img src="https://img.shields.io/badge/Metafields-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Metafields" />
 <br/>
-<img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Online%20Store%202.0-96BF48?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20CLI-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Metafields-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Theme%20Sections-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Storefront%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Ajax%20Cart%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Checkout%20Extensions-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Theme%20Sections-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Theme Sections" />
+<img src="https://img.shields.io/badge/Storefront%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Storefront API" />
+<img src="https://img.shields.io/badge/Ajax%20Cart%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Ajax Cart API" />
+<img src="https://img.shields.io/badge/Checkout%20Extensions-5E8E3E?style=flat-square&logo=shopify&logoColor=white" alt="Checkout Extensions" />
+
+<br/><br/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code, Figma" height="55" />
 
 </div>
 
