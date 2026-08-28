@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96BF48,100:5E8E3E&height=200&section=header&text=Mohsin%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Shopify%20Expert%20%7C%20eCommerce%20Developer&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96BF48,100:5E8E3E&height=200&section=header&text=Mohsin%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Shopify%20Developer%20%7C%20Frontend%20Developer&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/mohsin-shopify-expert">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=96BF48&center=true&vCenter=true&width=650&lines=Shopify+Theme+Developer+%26+Store+Optimizer;Liquid+%7C+Shopify+Plus+%7C+Hydrogen;WordPress+%2B+WooCommerce+Developer;Technical+SEO+%26+Conversion+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=96BF48&center=true&vCenter=true&width=650&lines=Senior+Shopify+Developer;Custom+Liquid+Theme+Development;HTML+%7C+CSS+%7C+JavaScript;Shopify+Plus+%26+Store+Speed+Optimization" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/mohsin-shopify-expert"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mohsinrajpout72@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://wa.me/923044716266"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/mohsinrajpout72-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
   <br/><br/>
 
@@ -30,23 +29,23 @@
 ```javascript
 const mohsin = {
   name:      "Mohsin Ali",
-  role:      "Shopify Expert & eCommerce Developer",
+  role:      "Senior Shopify Developer",
   location:  "Lahore, Punjab, Pakistan",
-  focus:     ["Shopify Theme Development", "Store Speed & CRO", "Technical SEO"],
-  stack:     ["Liquid", "JavaScript", "React", "Node.js", "PHP", "Tailwind"],
-  platforms: ["Shopify", "Shopify Plus", "WordPress", "WooCommerce"],
+  core:      ["HTML", "CSS", "JavaScript", "Liquid"],
+  focus:     ["Custom Shopify Themes", "Store Speed", "Conversion Rate"],
+  platform:  "Shopify & Shopify Plus",
   currently: "Building conversion-focused storefronts",
   motto:     "A fast store is a profitable store."
 };
 ```
 
-I build and optimize **Shopify storefronts that actually convert** — from custom Liquid themes and Figma-to-Shopify builds, to speed optimization, app integrations, and technical SEO that gets stores ranking.
+I'm a **Senior Shopify Developer** who builds custom storefronts from the ground up — clean, hand-written **HTML, CSS and JavaScript** layered onto **Liquid**, with no bloated page builders and no unnecessary apps.
 
-- 🛍️ **Shopify specialist** — custom themes, section-based builds, Shopify Plus, headless (Hydrogen)
+- 🛍️ **Shopify specialist** — custom themes, Online Store 2.0 sections, metafields, Shopify Plus
+- 🎨 **Frontend-first** — semantic HTML, responsive CSS, vanilla JavaScript, pixel-perfect builds
 - ⚡ **Performance obsessed** — Core Web Vitals, lazy loading, script deferral, image optimization
-- 📈 **SEO-driven** — schema markup, site architecture, on-page and technical audits
-- 🔧 **Full-stack capable** — WordPress, WooCommerce, Elementor, custom API integrations
-- 💬 **Ask me about** — Liquid templating, theme migrations, checkout customization, GA4 tracking
+- 🧩 **App-light philosophy** — I replace third-party apps with custom code wherever it's faster
+- 💬 **Ask me about** — Liquid templating, theme architecture, cart & checkout customization
 
 ---
 
@@ -54,27 +53,33 @@ I build and optimize **Shopify storefronts that actually convert** — from cust
 
 <div align="center">
 
-### eCommerce Platforms
-<img src="https://skillicons.dev/icons?i=shopify,wordpress,woocommerce&theme=dark" alt="Ecommerce" />
-<br/>
-<img src="https://img.shields.io/badge/Shopify%20Plus-96BF48?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Hydrogen-000000?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify%20CLI-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20Design-96BF48?style=flat-square&logo=css3&logoColor=white" />
 
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,git,github,vscode,figma,postman&theme=dark" alt="Backend" />
+### Shopify
+<img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify%20Plus-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Online%20Store%202.0-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify%20CLI-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Metafields-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Theme%20Sections-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Storefront%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Ajax%20Cart%20API-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Checkout%20Extensions-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
 
-### Analytics & Marketing
-<img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
-<img src="https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
-<img src="https://img.shields.io/badge/Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta%20Pixel-0668E1?style=flat-square&logo=meta&logoColor=white" />
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
 
 </div>
 
@@ -84,14 +89,14 @@ I build and optimize **Shopify storefronts that actually convert** — from cust
 
 | Service | Details |
 | :--- | :--- |
-| 🎨 **Custom Shopify Themes** | Built from scratch in Liquid, or Figma/PSD converted pixel-perfect |
-| 🔄 **Theme Customization** | Dawn, Debut, Impulse, Prestige — sections, metafields, custom blocks |
-| ⚡ **Speed Optimization** | Core Web Vitals, PageSpeed scores, render-blocking cleanup |
-| 🛒 **Store Setup & Migration** | WooCommerce → Shopify, product imports, redirects, domain setup |
-| 🔌 **App Integration** | Klaviyo, Judge.me, ReCharge, Bundles, custom private apps |
-| 📊 **Technical SEO** | Schema markup, sitemaps, canonical fixes, on-page optimization |
-| 💳 **Checkout & Cart** | Custom cart drawers, upsells, Shopify Functions, checkout extensions |
-| 🌐 **WordPress Development** | WooCommerce stores, Elementor builds, custom themes & plugins |
+| 🎨 **Custom Shopify Themes** | Built from scratch in Liquid — clean HTML, CSS and JavaScript, no page builders |
+| 🖼️ **Figma → Shopify** | Pixel-perfect conversion of Figma, XD or PSD designs into live themes |
+| 🔄 **Theme Customization** | Dawn, Impulse, Prestige, Warehouse — custom sections, blocks and metafields |
+| ⚡ **Speed Optimization** | Core Web Vitals, render-blocking cleanup, lazy loading, PageSpeed improvements |
+| 🛒 **Cart & Checkout** | Ajax cart drawers, upsells, quantity breaks, Shopify Functions, checkout extensions |
+| 🧩 **App Replacement** | Swapping slow third-party apps for lightweight custom-coded alternatives |
+| 📱 **Responsive Builds** | Mobile-first layouts that hold up across every breakpoint and device |
+| 🐛 **Theme Debugging** | Fixing broken layouts, JavaScript errors and Liquid logic in existing stores |
 
 ---
 
@@ -100,7 +105,7 @@ I build and optimize **Shopify storefronts that actually convert** — from cust
 <div align="center">
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohsinrajpout72-sudo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=96BF48&icon_color=96BF48&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinrajpout72-sudo&layout=compact&langs_count=8&hide_border=true&title_color=96BF48&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinrajpout72-sudo&layout=compact&langs_count=6&hide_border=true&title_color=96BF48&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
   <br/><br/>
 
@@ -120,10 +125,10 @@ I build and optimize **Shopify storefronts that actually convert** — from cust
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **shopify-custom-sections** | Reusable Liquid sections for Shopify 2.0 themes | Liquid, JS, CSS |
-| **figma-to-shopify** | Pixel-perfect Figma → Shopify theme conversions | Liquid, Tailwind |
-| **store-speed-toolkit** | Scripts & snippets for Core Web Vitals optimization | JS, Liquid |
-| **wp-elementor-blocks** | Custom Elementor widgets for WooCommerce | PHP, JS |
+| **shopify-custom-sections** | Reusable Online Store 2.0 sections for any Shopify theme | Liquid, JS, CSS |
+| **figma-to-shopify** | Pixel-perfect Figma → Shopify theme conversions | Liquid, HTML, CSS |
+| **store-speed-toolkit** | Snippets and patterns for Core Web Vitals optimization | JS, Liquid |
+| **ajax-cart-drawer** | Lightweight slide-out cart built on the Shopify Ajax API | JS, Liquid, CSS |
 
 ---
 
