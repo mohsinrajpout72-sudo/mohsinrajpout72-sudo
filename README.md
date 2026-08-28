@@ -140,34 +140,84 @@ code that loads quickly and converts.
 
 ## 💼 What I Do
 
-| Service | Details |
-| :--- | :--- |
-| 🎨 **Custom Shopify Themes** | Built from scratch in Liquid — clean HTML, CSS and JavaScript, no page builders |
-| 🖼️ **Figma → Shopify** | Pixel-perfect conversion of Figma, XD or PSD designs into live themes |
-| 🔄 **Theme Customization** | Dawn, Impulse, Prestige, Warehouse — custom sections, blocks and metafields |
-| ⚡ **Speed Optimization** | Core Web Vitals, render-blocking cleanup, lazy loading, PageSpeed improvements |
-| 🛒 **Cart & Checkout** | Ajax cart drawers, upsells, quantity breaks, Shopify Functions, checkout extensions |
-| 🧩 **App Replacement** | Swapping slow third-party apps for lightweight custom-coded alternatives |
-| 📱 **Responsive Builds** | Mobile-first layouts that hold up across every breakpoint and device |
-| 🐛 **Theme Debugging** | Fixing broken layouts, JavaScript errors and Liquid logic in existing stores |
-
----
-
-## 📊 GitHub Stats
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/01-95BF47?style=flat-square" alt="01" />
+  &nbsp;<b>Custom Shopify Themes</b>
+  <br/><br/>
+  <sub>Built from scratch in Liquid &mdash; clean, hand-written markup with no page builders and no bloat.</sub>
+  <br/><br/>
+  <sub><code>Liquid</code> <code>Sections</code> <code>Metafields</code></sub>
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/02-5E8E3E?style=flat-square" alt="02" />
+  &nbsp;<b>Figma to Liquid</b>
+  <br/><br/>
+  <sub>Pixel-perfect conversion of Figma, XD or PSD designs into a live, production-ready theme.</sub>
+  <br/><br/>
+  <sub><code>Figma</code> <code>HTML</code> <code>CSS</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/03-95BF47?style=flat-square" alt="03" />
+  &nbsp;<b>Theme Customization</b>
+  <br/><br/>
+  <sub>Dawn, Impulse, Prestige, Warehouse &mdash; custom sections, blocks and metafield-driven content.</sub>
+  <br/><br/>
+  <sub><code>OS 2.0</code> <code>Blocks</code> <code>Schema</code></sub>
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/04-5E8E3E?style=flat-square" alt="04" />
+  &nbsp;<b>Speed Optimization</b>
+  <br/><br/>
+  <sub>Core Web Vitals, render-blocking cleanup, lazy loading and measurable PageSpeed gains.</sub>
+  <br/><br/>
+  <sub><code>LCP</code> <code>CLS</code> <code>Lighthouse</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/05-95BF47?style=flat-square" alt="05" />
+  &nbsp;<b>Cart &amp; Checkout</b>
+  <br/><br/>
+  <sub>Ajax cart drawers, upsells, quantity breaks, Shopify Functions and checkout extensions.</sub>
+  <br/><br/>
+  <sub><code>Ajax API</code> <code>Functions</code></sub>
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/06-5E8E3E?style=flat-square" alt="06" />
+  &nbsp;<b>App Replacement</b>
+  <br/><br/>
+  <sub>Swapping slow third-party apps for lightweight custom code that does the same job faster.</sub>
+  <br/><br/>
+  <sub><code>JavaScript</code> <code>Liquid</code></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/07-95BF47?style=flat-square" alt="07" />
+  &nbsp;<b>Responsive Builds</b>
+  <br/><br/>
+  <sub>Mobile-first layouts that hold their shape across every breakpoint and device.</sub>
+  <br/><br/>
+  <sub><code>Flexbox</code> <code>Grid</code> <code>CSS</code></sub>
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/08-5E8E3E?style=flat-square" alt="08" />
+  &nbsp;<b>Theme Debugging</b>
+  <br/><br/>
+  <sub>Fixing broken layouts, JavaScript errors and tangled Liquid logic in existing stores.</sub>
+  <br/><br/>
+  <sub><code>Debug</code> <code>Refactor</code></sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohsinrajpout72-sudo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=96BF48&icon_color=96BF48&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinrajpout72-sudo&layout=compact&langs_count=6&hide_border=true&title_color=96BF48&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=mohsinrajpout72-sudo&hide_border=true&background=0d1117&stroke=96BF48&ring=96BF48&fire=96BF48&currStreakLabel=96BF48&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mohsinrajpout72-sudo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
+  <br/>
+  <sub>Need something not listed here? &nbsp;<a href="mailto:mohsinrajpout72@gmail.com">Ask me</a>&nbsp; &mdash; if it runs on Shopify, I can probably build it.</sub>
 </div>
 
 ---
