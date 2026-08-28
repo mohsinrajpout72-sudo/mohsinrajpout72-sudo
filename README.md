@@ -142,76 +142,105 @@ code that loads quickly and converts.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/01-95BF47?style=flat-square" alt="01" />
-  &nbsp;<b>Custom Shopify Themes</b>
-  <br/><br/>
-  <sub>Built from scratch in Liquid. No page builders, no bloat.</sub>
-  <br/><br/>
-  <sub><code>Liquid</code> <code>Sections</code> <code>Metafields</code></sub>
-</td>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/02-5E8E3E?style=flat-square" alt="02" />
-  &nbsp;<b>Figma to Liquid</b>
-  <br/><br/>
-  <sub>Pixel-perfect conversion from Figma, XD or PSD files.</sub>
-  <br/><br/>
-  <sub><code>Figma</code> <code>HTML</code> <code>CSS</code></sub>
-</td>
+  <th align="left" width="30%"><sub>SERVICE</sub></th>
+  <th align="left" width="42%"><sub>WHAT IT INVOLVES</sub></th>
+  <th align="left" width="28%"><sub>STACK</sub></th>
 </tr>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/03-95BF47?style=flat-square" alt="03" />
-  &nbsp;<b>Theme Customization</b>
-  <br/><br/>
-  <sub>Dawn, Impulse, Prestige &mdash; custom sections and blocks.</sub>
-  <br/><br/>
-  <sub><code>OS 2.0</code> <code>Blocks</code> <code>Schema</code></sub>
-</td>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/04-5E8E3E?style=flat-square" alt="04" />
-  &nbsp;<b>Speed Optimization</b>
-  <br/><br/>
-  <sub>Core Web Vitals, lazy loading, real PageSpeed gains.</sub>
-  <br/><br/>
-  <sub><code>LCP</code> <code>CLS</code> <code>Lighthouse</code></sub>
-</td>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/01-95BF47?style=flat-square" alt="01" />
+    &nbsp;<b>Custom Shopify Themes</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Built from scratch in Liquid. No page builders, no bloat.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>Liquid</code> <code>Sections</code> <code>Metafields</code></sub>
+  </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/05-95BF47?style=flat-square" alt="05" />
-  &nbsp;<b>Cart &amp; Checkout</b>
-  <br/><br/>
-  <sub>Ajax drawers, upsells, Functions, checkout extensions.</sub>
-  <br/><br/>
-  <sub><code>Ajax API</code> <code>Functions</code> <code>Upsells</code></sub>
-</td>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/06-5E8E3E?style=flat-square" alt="06" />
-  &nbsp;<b>App Replacement</b>
-  <br/><br/>
-  <sub>Slow third-party apps swapped for lightweight code.</sub>
-  <br/><br/>
-  <sub><code>JavaScript</code> <code>Liquid</code> <code>Speed</code></sub>
-</td>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/02-5E8E3E?style=flat-square" alt="02" />
+    &nbsp;<b>Figma to Liquid</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Pixel-perfect conversion from Figma, XD or PSD files.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>Figma</code> <code>HTML</code> <code>CSS</code></sub>
+  </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/07-95BF47?style=flat-square" alt="07" />
-  &nbsp;<b>Responsive Builds</b>
-  <br/><br/>
-  <sub>Mobile-first layouts that hold at every breakpoint.</sub>
-  <br/><br/>
-  <sub><code>Flexbox</code> <code>Grid</code> <code>CSS</code></sub>
-</td>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/08-5E8E3E?style=flat-square" alt="08" />
-  &nbsp;<b>Theme Debugging</b>
-  <br/><br/>
-  <sub>Broken layouts, JS errors and tangled Liquid logic.</sub>
-  <br/><br/>
-  <sub><code>Debug</code> <code>Refactor</code> <code>Audit</code></sub>
-</td>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/03-95BF47?style=flat-square" alt="03" />
+    &nbsp;<b>Theme Customization</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Dawn, Impulse, Prestige &mdash; custom sections and blocks.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>OS 2.0</code> <code>Blocks</code> <code>Schema</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/04-5E8E3E?style=flat-square" alt="04" />
+    &nbsp;<b>Speed Optimization</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Core Web Vitals, lazy loading, real PageSpeed gains.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>LCP</code> <code>CLS</code> <code>Lighthouse</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/05-95BF47?style=flat-square" alt="05" />
+    &nbsp;<b>Cart &amp; Checkout</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Ajax drawers, upsells, Functions, checkout extensions.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>Ajax API</code> <code>Functions</code> <code>Upsells</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/06-5E8E3E?style=flat-square" alt="06" />
+    &nbsp;<b>App Replacement</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Slow third-party apps swapped for lightweight code.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>JavaScript</code> <code>Liquid</code> <code>Speed</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/07-95BF47?style=flat-square" alt="07" />
+    &nbsp;<b>Responsive Builds</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Mobile-first layouts that hold at every breakpoint.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>Flexbox</code> <code>Grid</code> <code>CSS</code></sub>
+  </td>
+</tr>
+<tr>
+  <td width="30%" valign="middle">
+    <img src="https://img.shields.io/badge/08-5E8E3E?style=flat-square" alt="08" />
+    &nbsp;<b>Theme Debugging</b>
+  </td>
+  <td width="42%" valign="middle">
+    <sub>Broken layouts, JS errors and tangled Liquid logic.</sub>
+  </td>
+  <td width="28%" valign="middle">
+    <sub><code>Debug</code> <code>Refactor</code> <code>Audit</code></sub>
+  </td>
 </tr>
 </table>
 
